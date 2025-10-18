@@ -15,3 +15,8 @@ State Manager:
 
 Save results to supabase
 Supabase Schema:
+
+## Init
+``` bash
+npm create vite@latest
+```
