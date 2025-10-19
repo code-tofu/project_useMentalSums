@@ -1,6 +1,6 @@
 ## Planning
 
-Page Routing:
+Page Routing with React Router
 - Landing
 - Questions
 - Settings
@@ -12,3 +12,8 @@ State Manager:
 Save results to supabase
 Supabase Schema
 Axios
+
+
+Host FE on Github Pages? Vercel? Netlify?
+Deploy To Railway
+BE Supabase
